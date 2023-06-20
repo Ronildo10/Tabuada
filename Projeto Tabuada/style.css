@@ -1,0 +1,28 @@
+body {
+    font: normal 15pt Arial;
+    background: url(me\ deixe\ musculoso.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+header {
+    color: rgb(248, 248, 248);
+    text-align: center;
+
+}
+
+section {
+    background: rgba(123, 221, 155, 0.525);
+    border-radius: 10px;
+    padding: 100px;
+    width: 120px;
+    margin: auto;
+    box-shadow: 8px 8px 10px rgba(245, 243, 243, 0.394);
+
+}
+
+footer {
+    color: rgb(249, 247, 247);
+    text-align: center;
+    font-style: italic;
+}
+
